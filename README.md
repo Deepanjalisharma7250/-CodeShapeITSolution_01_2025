@@ -1,5 +1,10 @@
 # 🚀 Welcome to Your Project
 
+## 🔗 Live Demo
+
+Check out the live deployed project here:  
+[https://celebrated-cat-f46609.netlify.app](https://celebrated-cat-f46609.netlify.app)
+
 ## 📄 Project Info
 
 This project is built with a modern tech stack:
